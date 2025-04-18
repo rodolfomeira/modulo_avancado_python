@@ -1,0 +1,30 @@
+10336;Apontador metálico para lápis;4.60;87
+11415;Bloco adesivo Post-it 3 cores;9.85;43
+10512;Caneta marca texto Amarela cx. 12un.;23.20;142
+10513;Caneta marca texto Rosa cx. 12un.;23.20;28
+10514;Caneta marca texto Verde cx. 12un.;23.20;36
+12184;Caderno espiral grande 96fls;21.35;135
+12188;Caderno espiral grande 384fls;97.38;91
+12253;Caderno Livro Ata capa dura 96fls;29.90;29
+14517;Borracha escolar branca;3.75;412
+11103;Grafite HB 0.5 2 tubos com 12un.;8.79;73
+11101;Grafite 2B 0.5 2 tubos com 12un.;9.40;38
+11096;Grafite HB 0.7 2 tubos com 12un.;11.30;45
+14102;Régua plástico 30cm;2.55;84
+14108;Régua acrílico 30cm;18.73;26
+14223;Escalímetro triangular 30cm com estojo;31.50;18
+15330;Bloco de desenho - canson A4 50fls;16.80;49
+15332;Bloco de desenho - canson A3 50fls;31.40;53
+15630;Bloco milimetrado - sulfite A4 50fls;9.40;30
+15622;Bloco milimetrado - canson A4 50fls;16.23;64
+14580;Cola Branca PVA 500g;32.55;86
+14556;Cola Bastão pequena;16.32;105
+14560;Cola Bastão grande;28.10;34
+14578;Cola Branca lavável 90g;15.22;84
+10090;Pasta Aba com elástico - cartão;4.60;212
+10088;Pasta Aba com elástico - plástica;8.41;73
+10093;Pasta com grampo - cartão;5.10;97
+10095;Pasta Suspensa Arquivo emb c/10;21.90;37
+11480;Envelope saco kraft pct 50un.;26.12;184
+11483;Envelope saco branco pct 50un.;28.40;52
+11470;Envelope ofício branco pct 100un.;24.70;81
